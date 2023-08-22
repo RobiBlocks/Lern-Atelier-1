@@ -1,3 +1,4 @@
+Version 2
 # Grob-Planung
 
 **Robin Müller**
@@ -22,8 +23,7 @@ Ich möchte meine Kenntnisse in C# verbessern und meine Kenntnisse über das The
   | ------------------------ | ------ | --------------------------- |
   | Programm in VS gestartet | Zahlen | Ergebnis der Multiplikation |
 
-- [ ] Ich bearbeite Auftrag 1710 vom Modul 431: "Ich kannmein Vorgehen mit einer geeigneten Methode planen."
-
-- [ ] Ich bearbeite Auftrag 1710 vom Modul 431: "Ich kann mit einer Tabellenkalkulation selber einen Plan mit Teilautomation erstellen."
+- [ ] Ich bearbeite Auftrag 1711 vom Modul 431: "Ich kann mit einer Tabellenkalkulation selber einen Plan mit Teilautomation erstellen."
+- [ ] Ich bearbeite Auftrag 1712 vom Modul 431: "Ich kann mit einer Tabellenkalkulation in Tabellen Filtern und Sortieren."
 
 ✍️  Haken Sie am Ende die Arbeitspakete ab, die Sie erledigen konnten. Schreiben Sie ggf. eine kurze Erklärung, was gut geklappt hat oder warum etwas nicht erreicht werden konnte.
