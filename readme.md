@@ -39,7 +39,7 @@ Ich möchte meine Kenntnisse in C# verbessern und meine Kenntnisse über das The
 
 ✍️ Heute konnte ich einen Single -und Multiplayer für das Spiel "Errate die Geheimzahl" programmieren. Allerdings konnte ich heute die Aufträge 1711 und 1712 vom Modul 431 nicht mehr bearbeiten, da mir beim Programmieren des Spiels immer wieder neue Ideen gekommen sind und ich diese direkt umsetzen wollte. Ich sollte das nächste mal nur das geplante umsetze und nicht noch Ideen, die mir beim Programmieren kommen.
 
-## Arbeitpakete für 05.09.2023
+## Arbeitpakete für 12.09.2023
 
 - [x] Ich möchte das Spiel "Errate die Geheimzahl" so erweitern, damit es beim Multiplayer ein Duell gibt, wenn es ein Unentschieden gibt.
   
