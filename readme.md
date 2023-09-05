@@ -1,4 +1,4 @@
-Version 4
+Version 5
 
 # Grob-Planung
 
@@ -41,10 +41,30 @@ Ich möchte meine Kenntnisse in C# verbessern und meine Kenntnisse über das The
 
 ## Arbeitpakete für 05.09.2023
 
-- [ ] Ich möchte das Spiel "Errate die Geheimzahl" so erweitern, damit es beim Multiplayer ein Duell gibt, wenn es ein Unentschieden gibt.
+- [x] Ich möchte das Spiel "Errate die Geheimzahl" so erweitern, damit es beim Multiplayer ein Duell gibt, wenn es ein Unentschieden gibt.
   
 - [ ] Ich möchte mein Spiel , so erweitern damit es bei Fehleingaben (try catch) nicht abstürtzt.
   
-- [ ] Ich bearbeite Auftrag 1716 vom Modul 431: "Ich kann mit einer Tabellenkalkulation selber eine Checkliste erstellen."
+- [x] Ich bearbeite Auftrag 1716 vom Modul 431: "Ich kann mit einer Tabellenkalkulation selber eine Checkliste erstellen."
   
 - [ ] Ich bearbeite Auftrag 1717 vom Modul 431: "Ich kann aus einer Auswahl von Techniken eine geeignete auswählen (Problem, Kreativität, Lernen)."
+  
+
+✍️ Heute konnte ich das Duell für das Spiel "Errate die Geheimzahl" programmieren. Danach habe mich der "Try-Catch" Funktion in C# angeschaut. Ich konnte die Funktion allerdings nur im Singelplayer einbauen, weil mir die Zeit davon rannte. Allerdings gibt es immernoch einen kleinen Fehler in bestimmten Situationen, bei dem ein Befehl zu viel ausgeführt wird. Vielleicht kann ich diesen im Lerngespräch besprechen. Von den heutigen Aufträgen aus den Modulen konnte ich einen bearbeiten. Für den zweiten hatte ich keine Zeit mehr, da ich einige Probleme mit der Einrückung hatte, allerdings hat am Schluss nur eine geschweifte Klammer gefehlt. Die Pakete kommen den 45min immer näher.
+
+## Arbeitspakete für 29.09.2023
+
+- [ ] Ich programmiere die "Try-Catch" Funktion auch in den Mehrspieler ein.
+  
+  | Vorbereitung | Eingabe | Erwartete Ausgabe |
+  | --- | --- | --- |
+  | VS Studio starten | string | `Es ist ein Fehler unterlaufen! Probier es nocheinamal!` |
+  
+- [ ] Ich programmiere ein einfaches Textadventure bei dem es mehrere Abschlüsse gibt. Die Geschichte handelt um ein Ei aus dem ein kleiner Drache schlüpft. Man kann sich danach ein Ziel auswählen und man kann den Weg dorthin interaktiv mitbestimmen.
+  
+- [ ] Ich bearbeite Auftrag 1721 vom Modul 431: "Ich kann einen Auftrag mit den mir bekannten Hilfsmitteln und Methoden vollständig bearbeiten."
+  
+- [ ] Ich bearbeite Auftrag 1722 vom Modul 431: "Ich kann einem Laien an verschiedenen Beispielen erläutern, wie Ergebnisse von Aufträgen sinnvoll dokumentiert werden.""
+  
+
+✍️ Zusammenfassung
