@@ -1,4 +1,4 @@
-Version 5
+Version 6
 
 # Grob-Planung
 
@@ -10,7 +10,7 @@ bis zu den *Herbstferien*
 
 Ich möchte meine Kenntnisse in C# verbessern und meine Kenntnisse über das Thema "Aufträge im eigenen Berufsumfeld selbstständig durchführen" verbessern.
 
-## Arbeitspakete für 29.09.2023
+## Arbeitspakete für 29.08.2023
 
 - [x] Ein Programm, welches eine Geheimzahl erfindet. Danach fragt es "Wie lautet die Geheimzahl?". Das Programm gibt an, ob die Zahl zu hoch oder zu tief ist. Wenn die Zahl richtig ist, sagt das Programm "Bravo, super gemacht!"
   
@@ -39,7 +39,7 @@ Ich möchte meine Kenntnisse in C# verbessern und meine Kenntnisse über das The
 
 ✍️ Heute konnte ich einen Single -und Multiplayer für das Spiel "Errate die Geheimzahl" programmieren. Allerdings konnte ich heute die Aufträge 1711 und 1712 vom Modul 431 nicht mehr bearbeiten, da mir beim Programmieren des Spiels immer wieder neue Ideen gekommen sind und ich diese direkt umsetzen wollte. Ich sollte das nächste mal nur das geplante umsetze und nicht noch Ideen, die mir beim Programmieren kommen.
 
-## Arbeitpakete für 12.09.2023
+## Arbeitpakete für 5.09.2023
 
 - [x] Ich möchte das Spiel "Errate die Geheimzahl" so erweitern, damit es beim Multiplayer ein Duell gibt, wenn es ein Unentschieden gibt.
   
@@ -52,7 +52,7 @@ Ich möchte meine Kenntnisse in C# verbessern und meine Kenntnisse über das The
 
 ✍️ Heute konnte ich das Duell für das Spiel "Errate die Geheimzahl" programmieren. Danach habe mich der "Try-Catch" Funktion in C# angeschaut. Ich konnte die Funktion allerdings nur im Singelplayer einbauen, weil mir die Zeit davon rannte. Allerdings gibt es immernoch einen kleinen Fehler in bestimmten Situationen, bei dem ein Befehl zu viel ausgeführt wird. Vielleicht kann ich diesen im Lerngespräch besprechen. Von den heutigen Aufträgen aus den Modulen konnte ich einen bearbeiten. Für den zweiten hatte ich keine Zeit mehr, da ich einige Probleme mit der Einrückung hatte, allerdings hat am Schluss nur eine geschweifte Klammer gefehlt. Die Pakete kommen den 45min immer näher.
 
-## Arbeitspakete für 29.09.2023
+## Arbeitspakete für 12.09.2023
 
 - [ ] Ich programmiere die "Try-Catch" Funktion auch in den Mehrspieler ein.
   
@@ -60,11 +60,11 @@ Ich möchte meine Kenntnisse in C# verbessern und meine Kenntnisse über das The
   | --- | --- | --- |
   | VS Studio starten | string | `Es ist ein Fehler unterlaufen! Probier es nocheinamal!` |
   
-- [ ] Ich programmiere ein einfaches Textadventure bei dem es mehrere Abschlüsse gibt. Die Geschichte handelt um ein Ei aus dem ein kleiner Drache schlüpft. Man kann sich danach ein Ziel auswählen und man kann den Weg dorthin interaktiv mitbestimmen.
+- [ ] Ich programmiere ein einfaches Textadventure. Die Geschichte handelt darum, dass man sich immer zwichen drei Türen entscheiden muss. Jedoch ist nur immer eine die Richtige. Die Geschichte ist zu Ende wenn man alle Räume verlassen kann und ins freie kommt.
   
-- [ ] Ich bearbeite Auftrag 1721 vom Modul 431: "Ich kann einen Auftrag mit den mir bekannten Hilfsmitteln und Methoden vollständig bearbeiten."
+- [ ] Ich bearbeite Auftrag 1717 vom Modul 431: "Ich kann aus einer Auswahl von Techniken eine geeignete auswählen (Problem, Kreativität, Lernen)."
   
-- [ ] Ich bearbeite Auftrag 1722 vom Modul 431: "Ich kann einem Laien an verschiedenen Beispielen erläutern, wie Ergebnisse von Aufträgen sinnvoll dokumentiert werden.""
+- [ ] Ich bearbeite Auftrag 1718 vom Modul 431: "Ich kann eine Problemlösetechnik zur Bearbeitung eines Auftrages anwenden."
   
 
 ✍️ Zusammenfassung
