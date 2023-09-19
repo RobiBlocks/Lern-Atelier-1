@@ -1,4 +1,4 @@
-Version 8
+Version 9
 
 # Grob-Planung
 
@@ -68,7 +68,7 @@ Ich möchte meine Kenntnisse in C# verbessern und meine Kenntnisse über das The
 
 ## Arbeitspakete für 19.09.2023
 
-- [ ] Ich möchten mein Spiel "Errate die Geheimzahl" so erweitern, dass wenn man bei der Auswahl des Spiel modus eine 3 oder höher eingibt eine witzige Fehlermeldung erscheint (Evtl. mit einem Scherz). Ausserdem programmiere ich, dass wenn man beim Raten eine zu hohe Zahl eingibt, man erneut raten kann. (Im Normalen Spiel nicht über 100 und Im Duell nicht über 10)
+- [x] Ich möchten mein Spiel "Errate die Geheimzahl" so erweitern, dass wenn man bei der Auswahl des Spiel modus eine 3 oder höher eingibt eine witzige Fehlermeldung erscheint (Evtl. mit einem Scherz). Ausserdem programmiere ich, dass wenn man beim Raten eine zu hohe Zahl eingibt, man erneut raten kann. (Im Normalen Spiel nicht über 100 und Im Duell nicht über 10)
   
   | Nummer | Vorbereitung                             | Eingabe              | Ausgabe                                                                         |
   | ------ | ---------------------------------------- | -------------------- | ------------------------------------------------------------------------------- |
@@ -79,8 +79,20 @@ Ich möchte meine Kenntnisse in C# verbessern und meine Kenntnisse über das The
   | 5      | Aufforderung zum Raten im Duell          | Zahl kleiner als 0   | `Die Zahl ist zu gross! Probiere es nochmal mit einer Zahl zwischen 1 und 10!`  |
   | 6      | Aufforderung zum Raten im Duell          | Zahl grösser als 10  | `Die Zahl ist zu gross! Probiere es nochmal mit einer Zahl zwischen 1 und 10!`  |
 
-- [ ] Ich programmiere 3 weitere Räume im Spiel "Das Haus der tausend Türen". Im 4. Raum kann man wählen, ob man nach rechts oder links gehen will.
+- [x] Ich programmiere 3 weitere Räume im Spiel "Das Haus der tausend Türen". Im 4. Raum kann man wählen, ob man nach rechts oder links gehen will.
 
-- [ ] Ich bearbeite Auftrag 1724 vom Modul 431: "Ich kann meine Ergebnisse nach Vorgaben dokumentieren."
+- [x] Ich bearbeite Auftrag 1721 vom Modul 431: "Ich kann einen Auftrag mit den mir bekannten Hilfsmitteln und Methoden vollständig bearbeiten."
 
-- [ ] Ich bearbeite Auftrag 1725 vom Modul 431: "Ich kann einem Laien erklären, welche formalen Vorgaben beim Dokumentieren einzuhalten sind."
+- [ ] Ich bearbeite Auftrag 1722 vom Modul 431: "Ich kann einem Laien an verschiedenen Beispielen erläutern, wie Ergebnisse von Aufträgen sinnvoll dokumentiert werden."2
+
+✍️ Heute habe ich mein Spiel "Errate die Geheimzahl" um zwei kleine Features im Bezug auf die Benutzerfreundlichkeit programmiert. Ausserdem konnte ich mein Spiel mit den Türen um zwei Räume erweitern. Das bedeutet isch habe mein Ziel um einen Raum verfehlt. Das ist warscheinlich passiert, da ich den Code für den ersten Raum umprogrammiert habe, um die Switch Funktion zu vertiefen. Zum Schluss konnte ich leider nur einen Auftrag bearbeiten, da diesere enorm lange war.
+
+## Arbeitspakete für 26.09.2023
+
+- [ ] Ich möchte  mein Spiel "Das Haus der tausend Türen", um eine Verzwigung und zwei weitere Räume erweitern.
+
+- [ ] Ich bearbeite Auftrag 1729 vom Modul 431: "Ich kann meine Ergebnisse dem Auftraggeber in Form einer Präsentation vorstellen."
+
+- [ ] Ich bearbeite Auftrag 1730 vom Modul 431: "Ich kann einem Laien erklären, wie Feedback zur Verbesserung der Arbeitsqualität und des eigenen Verhaltens beitragen kann."
+
+- [ ] Ich bearbeite Auftrag 1731 vom Modul 431: "Ich kann mit einer vorgegebenen Methode ein Feedback zu meiner Arbeit einholen."
