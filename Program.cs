@@ -15,7 +15,7 @@ namespace Errate_die_Geheimzahl
             Console.WriteLine("Möchtest du alleine (1) oder zu zweit (2) spielen?");
             int mode = Convert.ToInt32(Console.ReadLine());
 
-            while
+            while (mode <= 0 | mode >= 3)
             {
                 Console.WriteLine("Dieser Modus existiert gar nicht. Du musst eine 1 oder eine 2 verwenden!");
                 Console.WriteLine("Möchtest du alleine (1) oder zu zweit (2) spielen?");
