@@ -313,7 +313,6 @@ namespace Errate_die_Geheimzahl
                     Console.WriteLine(name1 + " wird zweiter mit einem Highscore von: " + highscore1);
                 }
             }
-
         }
     }
 }
