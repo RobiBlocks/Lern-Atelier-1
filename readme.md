@@ -1,4 +1,4 @@
-Version 10
+Version 12
 
 # Grob-Planung
 
@@ -85,14 +85,24 @@ Ich möchte meine Kenntnisse in C# verbessern und meine Kenntnisse über das The
 
 - [ ] Ich bearbeite Auftrag 1722 vom Modul 431: "Ich kann einem Laien an verschiedenen Beispielen erläutern, wie Ergebnisse von Aufträgen sinnvoll dokumentiert werden."2
 
-✍️ Heute habe ich mein Spiel "Errate die Geheimzahl" um zwei kleine Features im Bezug auf die Benutzerfreundlichkeit programmiert. Ausserdem konnte ich mein Spiel mit den Türen um zwei Räume erweitern. Das bedeutet isch habe mein Ziel um einen Raum verfehlt. Das ist warscheinlich passiert, da ich den Code für den ersten Raum umprogrammiert habe, um die Switch Funktion zu vertiefen. Zum Schluss konnte ich leider nur einen Auftrag bearbeiten, da diesere enorm lange war.
+✍️ Heute habe ich mein Spiel "Errate die Geheimzahl" um zwei kleine Features im Bezug auf die Benutzerfreundlichkeit programmiert. Ausserdem konnte ich mein Spiel mit den Türen um zwei Räume erweitern. Das bedeutet ich habe mein Ziel um einen Raum verfehlt. Das ist warscheinlich passiert, da ich den Code für den ersten Raum umprogrammiert habe, um die Switch Funktion zu vertiefen. Zum Schluss konnte ich leider nur einen Auftrag bearbeiten, da diesere enorm lange war.
 
 ## Arbeitspakete für 26.09.2023
 
 - [ ] Ich möchte  mein Spiel "Das Haus der tausend Türen", um eine Verzwigung und zwei weitere Räume erweitern.
 
-- [ ] Ich bearbeite Auftrag 1727 vom Modul 431: "Ich kann einem Laien die Merkmale einer guten Präsentation erklären."
+- [x] Ich bearbeite Auftrag 1727 vom Modul 431: "Ich kann einem Laien die Merkmale einer guten Präsentation erklären."
 
 - [ ] Ich bearbeite Auftrag 1728 (MiZ und EwZ) vom Modul 431: "Ich kann mit einer Präsentationssoftware meine Ergebnisse optisch aufbereiten." (MiZ) und "Ich kann meine Ergebnisse dem Auftraggeber in Form einer Präsentation vorstellen." (EwZ)
 
-- [ ] Ich bearbeite Auftrag 1730 vom Modul 431: "Ich kann einem Laien erklären, wie Feedback zur Verbesserung der Arbeitsqualität und des eigenen Verhaltens beitragen kann."
+✍️ Heute habe ich Auftrag 1727 bearbeitet und mit Auftrag 1728, welcher Parnterarbeit ist, mit Arvin begonnen. Allerdings wurde ich nicht fertig, weil wir ein bisschen zu viel geredet haben. Eigentlich wollte ich noch an meinem Spiel "Das Haus der tausend Türen" weiterprogrammieren, wobei ich keine Zeit mehr dafür hatte.
+
+## Reflexion
+
+Ich konnte in meiner ersten Lern-Periode insgesamt zwei Programmier-Projekte in Angriff nehmen. Einmal das Spiel «Errate die Geheimzahl» und dann noch das
+Textadventure «Das Haus der tausend Türen. Ich beginne oft mit dem Programmieren,
+weil ich das neu gelernte in die Tat umsetzen möchte oder ich etwas verbessern
+kann. Ich wechsle oft vom Programmieren zur Arbeit am Modul, da mir die Ideen ausgehen. Am Modul arbeite ich eigentlich nur, weil ich eine sechs oder fünfeinhalb schreiben möchte, nicht weil ich mit den Aufträgen hinterherhinke. Nach jedem Arbeitspaket nehme ich auch eine 15 Minutige Pause und wenn ich länger an einem
+Arbeitspaket brauche, wird die Pause gekürzt! (106 Wörter)
+
+**Verbesserungs-Vorschlag (VBV):** In meiner nächsten Lern-Periode möchte ich die Aufträge der Module vor dem Lern-Atelier kurz anschauen, ob ein Arbeitspaket dafür reicht oder ob ich doch lieber zwei Arbeitspakete einplanen soll. Ausserdem möchte ich mir Zeit nehmen für mehr Testfälle.
